@@ -99,8 +99,8 @@ We believe software should be:
 
 ## Connect With Us
 
-* 🌐 Website: https://drunkengecko.com
-* 💼 LinkedIn: https://www.linkedin.com/
+* 🌐 Website: https://www.drunkengecko.com
+* 💼 LinkedIn: https://linkedin.com/company/drunken-gecko
 * 📫 GitHub Issues: Open an issue in the appropriate repository
 
 ---
