@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-drunkengecko.com-blue?style=for-the-badge)](https://drunkengecko.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+[![Website](https://img.shields.io/badge/Website-drunkengecko.com-blue?style=for-the-badge)](https://www.drunkengecko.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/company/drunken-gecko)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-success?style=for-the-badge)](https://github.com/TheDrunkenGecko)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](https://github.com/TheDrunkenGecko)
 [![Issues Welcome](https://img.shields.io/badge/Issues-Welcome-orange?style=for-the-badge)](https://github.com/TheDrunkenGecko/issues)
